@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Ahmad hasan ali
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
-- 📫 How to reach me : 
-Email = ahmadhasanali68@gmail.com <3
+- 👋 Hi, I’m Ahmad hasan ali Student of Universitas Sebelas Maret in Indonesia (Informatics Engineering Student)
+- 👀 I’m interested in Software Development as a Backend Developer
+- 🌱 Have skill on MVC framework website (like Laravel and CodeIgniter, prefer on Laravel), little bit PHP, etc.
+- 🌱 I’m currently learning JavaScript
+- 📫 You can contact me at:
+  Email = ahmadhasanali24@gmail.com, 
+          ahmadhasanali24@student.uns.ac.id
+  
